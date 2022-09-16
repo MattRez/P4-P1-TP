@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+img {
+    width: 17px;
+}
+
+.content {
+    width: 60%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.rodada {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.rodada > p {
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.space {
+    word-spacing: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
